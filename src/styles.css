@@ -3,8 +3,11 @@
   text-align: center;
 }
 
-.row {
+.Row {
   display: flex;
   justify-content: center;
   alignitems: center;
+}
+.Cell {
+  margin: 10px;
 }

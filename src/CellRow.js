@@ -2,7 +2,7 @@ import Cell from "./Cell";
 
 function CellRow(props) {
   return (
-    <div className="row">
+    <div className="Row">
       <Cell value={props.values[0]} />
       <Cell value={props.values[1]} />
       <Cell value={props.values[2]} />

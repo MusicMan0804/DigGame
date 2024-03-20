@@ -1,5 +1,5 @@
 function Cell(props) {
-  return <div>{props.value}</div>;
+  return <div className="Cell">{props.value}</div>;
 }
 
 export default Cell;
